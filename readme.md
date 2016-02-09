@@ -1,0 +1,1 @@
+A second generation for the project located at https://spritegenerator.codeplex.com/. The project has been abandoned so I decided to do some work on it.

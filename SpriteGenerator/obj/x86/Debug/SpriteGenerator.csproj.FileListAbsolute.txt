@@ -1,0 +1,10 @@
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\bin\Debug\SpriteGenerator.exe.config
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\bin\Debug\SpriteGenerator.exe
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\bin\Debug\SpriteGenerator.pdb
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.csprojResolveAssemblyReference.cache
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.Progress.resources
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.SpritesForm.resources
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.Properties.Resources.resources
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.csproj.GenerateResource.Cache
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.exe
+C:\Users\agarcia\Downloads\spritegenerator-20226\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.pdb
